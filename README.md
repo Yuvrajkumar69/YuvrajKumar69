@@ -50,16 +50,12 @@ Full-stack railway reservation platform featuring:
   <img src="./profile/stats.svg" width="48%"/>
   <img src="./profile/top-langs.svg" width="48%"/>
 </p>
-
----
-
+  
 ## 🎮 Developer Zone
 
 <p align="center">
-
-🟡 Pac-Man Contribution Game  
-🐍 Snake Contribution Graph
-
+  <img src="./space-shooter.gif" alt="Space Shooter Game" width="700"/>
+</p>
 </p>
 
 ---
