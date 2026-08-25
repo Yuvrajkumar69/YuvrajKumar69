@@ -1,137 +1,102 @@
-<div align="center">
+<h2 align="left">Hey 👋 Yuvraj this side. I am from India 🇮🇳</h2>
 
-# 👋 Hi, I am **Yuvraj Kumar**
+### 
 
-### 💻 Java Full Stack Developer | Problem Solver | Tech Enthusiast
+<img align="right" height="200" src="https://media4.giphy.com/media/78XCFBGOlS6keY1Bil/200w.gif?cid=6c09b952cbre4jxp4ctowi3nepcn260c98aukiqqvoa4v7mn&ep=v1_gifs_search&rid=200w.gif&ct=g" />
 
-`Java` • `Spring Boot` • `MySQL` • `Hibernate/JPA` • `JavaScript` • `React` • `REST APIs` • `JWT`
+###
 
+<div align="left">
+  <img src="./profile/stats.svg" height="150" alt="github stats" />
+  <img src="./profile/top-langs.svg" height="150" alt="top languages" />
 </div>
 
----
+###
 
-<table>
-<tr>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" />
+  <img width="12" />
 
-<td width="50%" valign="top">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo" />
+  <img width="12" />
 
-### `yuvraj@dev-terminal:~$`
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo" />
+  <img width="12" />
 
-<pre>
-> whoami
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
+  <img width="12" />
 
-Yuvraj Kumar
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" />
+  <img width="12" />
 
-> cat profile.txt
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html logo" />
+  <img width="12" />
 
-[+] Java Full Stack Developer
-[+] B.Tech CSE • 2026
-[+] Backend Engineering
-[+] REST API Development
-[+] Database Design
-[+] Cloud Deployment
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css logo" />
+  <img width="12" />
 
-> current_focus
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" />
+  <img width="12" />
 
-[>] Spring Boot
-[>] System Design
-[>] Full Stack Development
-</pre>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo" />
+  <img width="12" />
 
-</td>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="30" alt="postman logo" />
+  <img width="12" />
 
-<td width="50%" valign="top">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" />
+</div>
 
-### `> system_status`
+###
 
-<pre>
-┌──────────────────────────┐
-│  🚆 RAIL BHARAT          │
-│                          │
-│  Java 21                 │
-│  Spring Boot             │
-│  Hibernate / JPA         │
-│  MySQL                   │
-│  JWT Security            │
-│  Razorpay Test Mode      │
-│  Railway + Vercel        │
-│                          │
-│  STATUS: ● LIVE          │
-└──────────────────────────┘
-</pre>
+<h3 align="left">💻 Java Full Stack Developer</h3>
 
-### `> tech_status`
+<p align="left">
+  Java • Spring Boot • Hibernate/JPA • MySQL • JavaScript • React • REST APIs • JWT • Spring Security
+</p>
 
-<pre>
-☕ Java          ██████████
-🌱 Spring Boot   █████████
-🗄️ MySQL         █████████
-⚡ JavaScript    ████████
-⚛️ React         ███████
-🔐 JWT           ███████
-</pre>
+###
 
-</td>
+<div align="left">
+  <a href="mailto:YOUR_EMAIL" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="gmail logo" />
+  </a>
 
-</tr>
-</table>
+  <a href="YOUR_LINKEDIN_URL" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="linkedin logo" />
+  </a>
 
----
+  <a href="https://github.com/YuvrajKumar69" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&style=for-the-badge" height="35" alt="github logo" />
+  </a>
+</div>
+
+###
+
+<h3 align="left">🚆 Featured Project — Rail Bharat</h3>
+
+<p align="left">
+  Full-stack railway reservation platform built with Java 21, Spring Boot, Hibernate/JPA, MySQL and JavaScript.
+  Features include train search, JWT authentication, booking, cancellation, PNR lookup, Razorpay Test Mode and email notifications.
+</p>
+
+<p align="left">
+  🌐 <a href="https://rail-bharat.vercel.app">Live Demo</a> &nbsp; • &nbsp;
+  💻 <a href="https://github.com/YuvrajKumar69/Rail-Bharat">Source Code</a>
+</p>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="./space-shooter.gif" alt="Space Shooter Game" width="100%" />
+</div>
+
+###
 
 <div align="center">
 
-## 🚀 `DEVELOPER_ZONE`
-
-<img src="./space-shooter.gif" alt="Space Shooter" width="100%"/>
+### 🚀 Keep Building • Keep Learning • Keep Growing
 
 </div>
-
----
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-### `> github_stats`
-
-<p align="center">
-<img src="./profile/stats.svg" width="100%"/>
-</p>
-
-</td>
-
-<td width="50%" valign="top">
-
-### `> top_languages`
-
-<p align="center">
-<img src="./profile/top-langs.svg" width="100%"/>
-</p>
-
-</td>
-
-</tr>
-</table>
-
----
-
-<table>
-<tr>
-
-<td width="60%" valign="top">
-
-### `> featured_project`
-
-## 🚆 Rail Bharat
-
-**Full-stack railway reservation platform**
-
-```text
-✓ Train Search
-✓ JWT Authentication
-✓ Booking & Cancellation
-✓ PNR Lookup
-✓ Razorpay Test Mode
-✓ Email Notifications
-✓ Seat Availability
