@@ -67,7 +67,7 @@
   </a>
 
   <a href="https://github.com/YuvrajKumar69" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&style=for-the-badge" height="35" alt="github logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" height="30" alt="github logo" />
   </a>
 </div>
 
