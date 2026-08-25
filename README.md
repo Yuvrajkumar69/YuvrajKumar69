@@ -1,35 +1,20 @@
 <div align="center">
 
-# 👋 Hi, I am **Yuvraj Kumar**
+# 👋 Hi, I am <span style="color:#39ff14;">Yuvraj Kumar</span>
 
-### 💻 Java Full Stack Developer | B.Tech CSE 2026
-
-**Building practical, scalable web applications with Java & modern full-stack technologies.**
-
-<p>
-  <a href="https://github.com/YuvrajKumar69">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+### 💻 Java Full Stack Developer | Problem Solver | Tech Enthusiast
 
 </div>
 
----
+<br>
 
 <table>
 <tr>
+<td width="68%" valign="top">
 
-<td width="65%" valign="top">
+<pre>
+yuvraj@dev-terminal:~$
 
-### `yuvraj@dev-terminal:~$`
-
-```text
 > whoami
 
 Yuvraj Kumar
@@ -48,3 +33,91 @@ Yuvraj Kumar
 |> Full Stack Development
 |> Backend Engineering
 |> Cloud Deployment
+</pre>
+
+</td>
+
+<td width="32%" valign="top">
+
+<h3>⚡ currently_building</h3>
+
+<pre>
+🚆 Rail Bharat
+
+Java 21
+Spring Boot
+Hibernate/JPA
+MySQL
+JWT
+Razorpay Test Mode
+Vercel + Railway
+
+STATUS: LIVE ✅
+</pre>
+
+<h3>🛠 tech_status</h3>
+
+<pre>
+☕ Java          ██████████
+🌱 Spring Boot   █████████
+🗄️ MySQL         █████████
+⚡ JavaScript    ████████
+⚛️ React         ███████
+🔐 JWT/Security  ███████
+</pre>
+
+</td>
+</tr>
+</table>
+
+---
+
+<h2>🚀 Yuvraj's Developer Zone</h2>
+
+<p align="center">
+<img src="./space-shooter.gif" width="100%" alt="Space Shooter"/>
+</p>
+
+---
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>📊 GitHub Stats</h3>
+
+<p align="center">
+<img src="./profile/stats.svg" width="100%"/>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>💻 Top Languages</h3>
+
+<p align="center">
+<img src="./profile/top-langs.svg" width="100%"/>
+</p>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<h2>🛠 Technology Stack</h2>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,hibernate,javascript,html,css,react,git,github,postman,railway,vercel"/>
+</p>
+
+---
+
+<div align="center">
+
+### 🚀 Keep Building • Keep Learning • Keep Growing
+
+</div>
