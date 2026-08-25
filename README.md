@@ -1,4 +1,4 @@
-<h2 align="left">Hey 👋 Yuvraj this side. I am from India 🇮🇳</h2>
+<h2 align="left">Hey 👋, I'm Yuvraj Kumar — I build, break & improve things.</h2>
 
 ### 
 
@@ -56,7 +56,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="mailto:YOUR_EMAIL" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
