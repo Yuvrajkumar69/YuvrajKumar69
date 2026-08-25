@@ -1,4 +1,4 @@
-<h2 align="left">Hey 👋 Yuvraj this side. I am from India 🇮🇳</h2>
+<h2 align="left">Hey 👋, I'm Yuvraj Kumar — I build, break & improve things.</h2>
 
 ### 
 
