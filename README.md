@@ -1,82 +1,12 @@
 <div align="center">
 
-# 👋 Hi, I am <span style="color:#39ff14;">Yuvraj Kumar</span>
+# 👋 Hi, I am **Yuvraj Kumar**
 
 ### 💻 Java Full Stack Developer | Problem Solver | Tech Enthusiast
 
+`Java` • `Spring Boot` • `MySQL` • `Hibernate/JPA` • `JavaScript` • `React` • `REST APIs` • `JWT`
+
 </div>
-
-<br>
-
-<table>
-<tr>
-<td width="68%" valign="top">
-
-<pre>
-yuvraj@dev-terminal:~$
-
-> whoami
-
-Yuvraj Kumar
-
-> cat about.txt
-
-|> Java Full Stack Developer
-|> Spring Boot • REST APIs • MySQL
-|> Hibernate/JPA • JavaScript • React
-|> JWT • Spring Security
-|> Building real-world applications
-|> Always learning and improving
-
-> current_focus
-
-|> Full Stack Development
-|> Backend Engineering
-|> Cloud Deployment
-</pre>
-
-</td>
-
-<td width="32%" valign="top">
-
-<h3>⚡ currently_building</h3>
-
-<pre>
-🚆 Rail Bharat
-
-Java 21
-Spring Boot
-Hibernate/JPA
-MySQL
-JWT
-Razorpay Test Mode
-Vercel + Railway
-
-STATUS: LIVE ✅
-</pre>
-
-<h3>🛠 tech_status</h3>
-
-<pre>
-☕ Java          ██████████
-🌱 Spring Boot   █████████
-🗄️ MySQL         █████████
-⚡ JavaScript    ████████
-⚛️ React         ███████
-🔐 JWT/Security  ███████
-</pre>
-
-</td>
-</tr>
-</table>
-
----
-
-<h2>🚀 Yuvraj's Developer Zone</h2>
-
-<p align="center">
-<img src="./space-shooter.gif" width="100%" alt="Space Shooter"/>
-</p>
 
 ---
 
@@ -85,7 +15,85 @@ STATUS: LIVE ✅
 
 <td width="50%" valign="top">
 
-<h3>📊 GitHub Stats</h3>
+### `yuvraj@dev-terminal:~$`
+
+<pre>
+> whoami
+
+Yuvraj Kumar
+
+> cat profile.txt
+
+[+] Java Full Stack Developer
+[+] B.Tech CSE • 2026
+[+] Backend Engineering
+[+] REST API Development
+[+] Database Design
+[+] Cloud Deployment
+
+> current_focus
+
+[>] Spring Boot
+[>] System Design
+[>] Full Stack Development
+</pre>
+
+</td>
+
+<td width="50%" valign="top">
+
+### `> system_status`
+
+<pre>
+┌──────────────────────────┐
+│  🚆 RAIL BHARAT          │
+│                          │
+│  Java 21                 │
+│  Spring Boot             │
+│  Hibernate / JPA         │
+│  MySQL                   │
+│  JWT Security            │
+│  Razorpay Test Mode      │
+│  Railway + Vercel        │
+│                          │
+│  STATUS: ● LIVE          │
+└──────────────────────────┘
+</pre>
+
+### `> tech_status`
+
+<pre>
+☕ Java          ██████████
+🌱 Spring Boot   █████████
+🗄️ MySQL         █████████
+⚡ JavaScript    ████████
+⚛️ React         ███████
+🔐 JWT           ███████
+</pre>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## 🚀 `DEVELOPER_ZONE`
+
+<img src="./space-shooter.gif" alt="Space Shooter" width="100%"/>
+
+</div>
+
+---
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### `> github_stats`
 
 <p align="center">
 <img src="./profile/stats.svg" width="100%"/>
@@ -95,7 +103,7 @@ STATUS: LIVE ✅
 
 <td width="50%" valign="top">
 
-<h3>💻 Top Languages</h3>
+### `> top_languages`
 
 <p align="center">
 <img src="./profile/top-langs.svg" width="100%"/>
@@ -108,16 +116,22 @@ STATUS: LIVE ✅
 
 ---
 
-<h2>🛠 Technology Stack</h2>
+<table>
+<tr>
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=java,spring,mysql,hibernate,javascript,html,css,react,git,github,postman,railway,vercel"/>
-</p>
+<td width="60%" valign="top">
 
----
+### `> featured_project`
 
-<div align="center">
+## 🚆 Rail Bharat
 
-### 🚀 Keep Building • Keep Learning • Keep Growing
+**Full-stack railway reservation platform**
 
-</div>
+```text
+✓ Train Search
+✓ JWT Authentication
+✓ Booking & Cancellation
+✓ PNR Lookup
+✓ Razorpay Test Mode
+✓ Email Notifications
+✓ Seat Availability
