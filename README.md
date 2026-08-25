@@ -1,67 +1,50 @@
 <div align="center">
 
-# 👋 Hi, I'm Yuvraj Kumar
+# 👋 Hi, I am **Yuvraj Kumar**
 
 ### 💻 Java Full Stack Developer | B.Tech CSE 2026
 
-Building practical web applications with Java & modern full-stack technologies.
+**Building practical, scalable web applications with Java & modern full-stack technologies.**
 
-<a href="https://github.com/YuvrajKumar69">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<p>
+  <a href="https://github.com/YuvrajKumar69">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 </div>
 
 ---
 
-## 🛠️ Tech Stack
+<table>
+<tr>
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=java,spring,mysql,hibernate,javascript,html,css,react,git,github,postman,railway,vercel" />
-</p>
+<td width="65%" valign="top">
 
----
+### `yuvraj@dev-terminal:~$`
 
-## 🚆 Featured Project
+```text
+> whoami
 
-### Rail Bharat
+Yuvraj Kumar
 
-Full-stack railway reservation platform featuring:
+> cat about.txt
 
-**Train Search • JWT Authentication • Booking • PNR • Razorpay Test Mode • Email Notifications**
+|> Java Full Stack Developer
+|> Spring Boot • REST APIs • MySQL
+|> Hibernate/JPA • JavaScript • React
+|> JWT • Spring Security
+|> Building real-world applications
+|> Always learning and improving
 
-**Java 21 • Spring Boot • Hibernate/JPA • MySQL • JavaScript**
+> current_focus
 
-🌐 [Live Demo](https://rail-bharat.vercel.app)  
-💻 [Source Code](https://github.com/YuvrajKumar69/Rail-Bharat)
-
----
-
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="./profile/stats.svg" width="48%"/>
-  <img src="./profile/top-langs.svg" width="48%"/>
-</p>
-  
-## 🎮 Developer Zone
-
-<p align="center">
-  <img src="./space-shooter.gif" alt="Space Shooter Game" width="700"/>
-</p>
-</p>
-
----
-
-<div align="center">
-
-### 🚀 Keep Building • Keep Learning
-
-</div>
+|> Full Stack Development
+|> Backend Engineering
+|> Cloud Deployment
