@@ -1,4 +1,4 @@
-<h2 align="left">Hey 👋, I'm Yuvraj Kumar — I build, break & improve things.</h2>
+<h2 align="left">Hey 👋 Yuvraj this side. I am from India 🇮🇳</h2>
 
 ### 
 
@@ -40,9 +40,9 @@
 
  <img src="https://cdn.simpleicons.org/github/F97316" height="30" alt="github logo" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="30" alt="postman logo" /><img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="30" alt="postman logo" />
+  <img width="12" />
 
-  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" />
 </div>
 
@@ -66,7 +66,7 @@
   </a>
 
   <a href="https://github.com/YuvrajKumar69" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" height="30" alt="github logo" />
+    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&style=for-the-badge" height="35" alt="github logo" />
   </a>
 </div>
 
