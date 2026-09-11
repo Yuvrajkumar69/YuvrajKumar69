@@ -72,6 +72,8 @@
 
 ###
 
+###
+
 <h3 align="left">🚆 Featured Project — Rail Bharat</h3>
 
 <p align="left">
@@ -85,6 +87,33 @@
 </p>
 
 ###
+
+<h3 align="left">🍷 Featured Project — North & Vine</h3>
+
+<p align="left">
+  Premium full-stack e-commerce web application built with Java, Spring Boot, Hibernate/JPA, MySQL and JavaScript.
+  Features include product browsing, product details, wishlist, cart, checkout, Buy Now flow, Razorpay Test Mode and transactional email notifications.
+</p>
+
+<p align="left">
+  💻 <a href="https://github.com/YuvrajKumar69/North-wine-E-commerce-web-Application">Source Code</a>
+</p>
+
+###
+
+<h3 align="left">🎨 Featured Project — Developer Portfolio</h3>
+
+<p align="left">
+  Interactive developer portfolio built with React, Vite, Three.js, GSAP and modern frontend technologies.
+  Designed with an immersive 3D experience to showcase my skills, projects, experience and developer journey.
+</p>
+
+<p align="left">
+  🌐 <a href="http://localhost:5173">Live Demo</a> &nbsp; • &nbsp;
+  💻 <a href="https://github.com/YuvrajKumar69">Source Code</a>
+</p>
+
+######
 
 <br clear="both">
 
